@@ -1,6 +1,6 @@
 <!-- Animated Header with Particles Effect -->
 <div align="center">
-  <img width="50%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=300&section=header&text=Dipak%20Kumar%20Sahu&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Spring-Boot%20Developer%20%7C%20Problem%20Solver%20%7C%20Innovation%20Architect&descAlignY=51&descAlign=62"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=300&section=header&text=Dipak%20Kumar%20Sahu&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Spring-Boot%20Developer%20%7C%20Problem%20Solver%20%7C%20Innovation%20Architect&descAlignY=51&descAlign=62"/>
 </div>
 
 <!-- Holographic Profile Picture -->
