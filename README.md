@@ -166,7 +166,7 @@ fun_fact: "I debug with ChatGPT and deploy with confidence ☕"
   <a href="https://github.com/DipakKumarSahu" target="_blank">
     <img src="https://img.shields.io/badge/⚡_GitHub-Explore_Code-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
   </a>
-  <a href="www.linkedin.com/in/dipak-kumar-sahu" target="_blank">
+  <a href="https://www.linkedin.com/in/dipak-kumar-sahu" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Network-f093fb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/>
   </a>
   <a href="dipak04092004@gmail.com" target="_blank">
