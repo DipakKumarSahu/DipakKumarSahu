@@ -169,7 +169,7 @@ fun_fact: "I debug with ChatGPT and deploy with confidence ☕"
   <a href="https://www.linkedin.com/in/dipak-kumar-sahu" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Network-f093fb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/>
   </a>
-  <a href="dipak04092004@gmail.com" target="_blank">
+  <a href="mailto:dipak04092004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-f5576c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
   </a>
 </div>
