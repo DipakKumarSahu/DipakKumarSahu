@@ -37,7 +37,6 @@ core_expertise:
   - "RESTful API Development"
 
 currently_mastering:
-  - "🔒 Spring Security & Authentication"
   - "🤖 AI-Assisted Development Workflows"
   - "☁️ AWS Cloud Deployment"
 
